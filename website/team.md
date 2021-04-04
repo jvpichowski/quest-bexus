@@ -3,13 +3,7 @@ layout: page
 title: Our Team
 ---
 
-![The people of the QUEST team][all]
-
-
+![The people solving the QUEST](QuestTeam.jpg){:class="img-responsive"}
 
 There are a lot of different people who try to push QUEST one step further. 
 We are proud to be a team with various strengths, personalities and lots of innovative ideas.
-
-
-
-[all]: QuestTeam.jpg ""
