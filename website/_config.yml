@@ -1,7 +1,7 @@
 # Setup
 title:               QUEST on BEXUS
 tagline:             'BX27'
-description:         'An autonomous classification system for high altitude balloons.'
+description:         'An autonomous classification system for high-altitude balloons.'
 url:                 https://jvpichowski.github.io/quest-bexus
 baseurl:             ''
 paginate:            5

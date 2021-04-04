@@ -5,5 +5,5 @@ A student team from the University of Würzburg built an autonomous system for t
 
 ## Content
 
-This repository contains the official student experiment documentation for the project, both published papers and the content of the [project website](https://jvpichowski.github.io/quest-bexus/).
+This repository contains the official student experiment documentation for the project, both published papers and the content of the [project website](https://jvpichowski.github.io/quest-bexus/). For now, it is still under construction but it will replace the [previous website of the project](https://quest-bexus.de).
 
