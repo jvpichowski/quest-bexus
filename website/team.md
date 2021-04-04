@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Team for Solving the QUEST
+title: Our Team
 ---
 
 There are a lot of different people who try to push QUEST one step further. 
