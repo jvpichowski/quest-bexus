@@ -1,8 +1,8 @@
 # Setup
-title:               jvpichowski
-tagline:             'blog'
-description:         'A computer sciences student on his way through a fascinating world.'
-url:                 https://jvpichowski.github.io/website-template
+title:               QUEST on BEXUS
+tagline:             'BX27'
+description:         'An autonomous classification system for high altitude balloons.'
+url:                 https://jvpichowski.github.io/quest-bexus
 baseurl:             ''
 paginate:            5
 permalink:           pretty
