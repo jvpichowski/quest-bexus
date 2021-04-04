@@ -1,9 +1,9 @@
-# Website Template
+# QUEST on BEXUS
 
-This repository contains a template for my websites.
-You can visit it over [here](https://jvpichowski.github.io/website-template/).
-Just edit the config and the legal notice and start to add some pages or posts in the `_posts` folder.
+QUEST is a student experiment for the REXUS/BEXUS program. 
+A student team from the University of Würzburg built an autonomous system for the classification of landscapes from high-altitude balloons.
 
-## License
+## Content
 
-The website source code is licensed under MIT license.
+This repository contains the official student experiment documentation for the project, both published papers and the content of the [project website](https://jvpichowski.github.io/quest-bexus/).
+
