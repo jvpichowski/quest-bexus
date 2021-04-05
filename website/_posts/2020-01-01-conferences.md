@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QUEST on Conferences
+title: QUEST at Conferences
 ---
 
 Our lead system engineer [Ric Dengel](https://www.linkedin.com/in/ric-dengel/) went to the following conferences to spread our results.
