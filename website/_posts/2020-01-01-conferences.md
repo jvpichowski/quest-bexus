@@ -9,7 +9,7 @@ Our lead system engineer [Ric Dengel](https://www.linkedin.com/in/ric-dengel/) w
 
 ### October 2019
 
-![Ric Dengel at PAC]({{ site.url }}/images/SSEA.jpg){:class="img-responsive"}
+![Ric Dengel at PAC]({{ site.url }}/images/PAC.jpg){:class="img-responsive"}
 
 [Dengel, R.; N., Florschütz; V., Huber; T., Muller; J., von Pichowski; A., Rabinowitsch; et al. (2019): QUEST ON BEXUS 27. 24th ESA Symposium on European Rocket & Balloon Programmes and Related Research. Essen, Germany. Conference contribution.](https://www.researchgate.net/publication/337784585_QUEST_ON_BEXUS_27)
 
