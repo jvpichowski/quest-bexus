@@ -10,9 +10,9 @@ We’re very grateful for your support!
 
 ---
 
-![DLR]({{ site.url }}/images/sponsors/DLR.jpg){:class="img-responsive"; display=inline; height="1.5cm"}
-![SNSB]({{ site.url }}/images/sponsors/SNSB.png){:class="img-responsive"; display=inline; height="1.5cm"}
-![ESA]({{ site.url }}/images/sponsors/ESA.png){:class="img-responsive"; display=inline; height="1.5cm"}
+![DLR]({{ site.url }}/images/sponsors/DLR.jpg){:class="img-responsive" display=inline height="1.5cm"}
+![SNSB]({{ site.url }}/images/sponsors/SNSB.png){:class="img-responsive" display=inline height="1.5cm"}
+![ESA]({{ site.url }}/images/sponsors/ESA.png){:class="img-responsive" display=inline height="1.5cm"}
 
 ## DLR, SNSB, ESA
 
@@ -20,9 +20,9 @@ The REXUS/BEXUS programme is realised under a bilateral Agency Agreement between
 
 ---
 
-![SSC]({{ site.url }}/images/sponsors/ssc.png){:class="img-responsive"; display=inline; height="1.5cm"}
-![ZARM]({{ site.url }}/images/sponsors/Zarm.png){:class="img-responsive"; display=inline; height="1.5cm"}
-![EuroLaunch]({{ site.url }}/images/sponsors/EUROLAUNCH.png){:class="img-responsive"; display=inline; height="1.5cm"}
+![SSC]({{ site.url }}/images/sponsors/ssc.png){:class="img-responsive" display: inline height="1.5cm"}
+![ZARM]({{ site.url }}/images/sponsors/Zarm.png){:class="img-responsive" display: inline height="1.5cm"}
+![EuroLaunch]({{ site.url }}/images/sponsors/EUROLAUNCH.png){:class="img-responsive" display: inline height="1.5cm"}
 
 ## SSC, ZARM, EuroLaunch
 
@@ -30,7 +30,7 @@ EuroLaunch, a cooperation between the Esrange Space Center of the Swedish Space 
 
 ---
 
-![University of Würzburg]({{ site.url }}/images/sponsors/uni-wue.png){:class="img-responsive"; display=inline; height="1.5cm"}
+![University of Würzburg]({{ site.url }}/images/sponsors/uni-wue.png){:class="img-responsive"  :display=inline :height="1.5cm"}
 
 ## Julius-Maximilians-Universität Würzburg
 
@@ -38,7 +38,7 @@ The University of Würzburg, namely the Chair of Aerospace Information Technolog
 
 ---
 
-![uduino]({{ site.url }}/images/sponsors/microduino.png){:class="img-responsive"; display=inline; height="1.5cm"}
+![uduino]({{ site.url }}/images/sponsors/microduino.png){:class="img-responsive" :display: inline :height="1.5cm"}
 
 ## uduino
 
