@@ -8,11 +8,11 @@ hardware and financial sponsoring by our partners and sponsors.
 
 We’re very grateful for your support!
 
-===
+---
 
-![DLR]({{ site.url }}/images/sponsors/DLR.jpg){:class="img-responsive"}
-![SNSB]({{ site.url }}/images/sponsors/SNSB.png){:class="img-responsive"}
-![ESA]({{ site.url }}/images/sponsors/ESA.png){:class="img-responsive"}
+![DLR]({{ site.url }}/images/sponsors/DLR.jpg){:class="img-responsive"; display=inline; height="1.5cm"}
+![SNSB]({{ site.url }}/images/sponsors/SNSB.png){:class="img-responsive"; display=inline; height="1.5cm"}
+![ESA]({{ site.url }}/images/sponsors/ESA.png){:class="img-responsive"; display=inline; height="1.5cm"}
 
 ## DLR, SNSB, ESA
 
@@ -20,9 +20,9 @@ The REXUS/BEXUS programme is realised under a bilateral Agency Agreement between
 
 ---
 
-![SSC]({{ site.url }}/images/sponsors/ssc.png){:class="img-responsive"}
-![ZARM]({{ site.url }}/images/sponsors/Zarm.png){:class="img-responsive"}
-![EuroLaunch]({{ site.url }}/images/sponsors/EUROLAUNCH.png){:class="img-responsive"}
+![SSC]({{ site.url }}/images/sponsors/ssc.png){:class="img-responsive"; display=inline; height="1.5cm"}
+![ZARM]({{ site.url }}/images/sponsors/Zarm.png){:class="img-responsive"; display=inline; height="1.5cm"}
+![EuroLaunch]({{ site.url }}/images/sponsors/EUROLAUNCH.png){:class="img-responsive"; display=inline; height="1.5cm"}
 
 ## SSC, ZARM, EuroLaunch
 
@@ -30,7 +30,7 @@ EuroLaunch, a cooperation between the Esrange Space Center of the Swedish Space 
 
 ---
 
-![University of Würzburg]({{ site.url }}/images/sponsors/uni-wue.png){:class="img-responsive"}
+![University of Würzburg]({{ site.url }}/images/sponsors/uni-wue.png){:class="img-responsive"; display=inline; height="1.5cm"}
 
 ## Julius-Maximilians-Universität Würzburg
 
@@ -38,7 +38,7 @@ The University of Würzburg, namely the Chair of Aerospace Information Technolog
 
 ---
 
-![uduino]({{ site.url }}/images/sponsors/microduino.png){:class="img-responsive"}
+![uduino]({{ site.url }}/images/sponsors/microduino.png){:class="img-responsive"; display=inline; height="1.5cm"}
 
 ## uduino
 
@@ -46,9 +46,9 @@ Mr. Chadwick is the creator of the crowdfunded uduinos. We are very lucky that h
 
 ---
 
-![Mouser Electronics Inc]({{ site.url }}/images/sponsors/Mouser.jpg){:class="img-responsive"}
-![Texas Instruments Inc]({{ site.url }}/images/sponsors/TexasInstruments.png){:class="img-responsive"}
-![Thorlabs]({{ site.url }}/images/sponsors/Thorlabs.jpg){:class="img-responsive"}
+![Mouser Electronics Inc]({{ site.url }}/images/sponsors/Mouser.jpg){:class="img-responsive"; display=inline; height="1.5cm"}
+![Texas Instruments Inc]({{ site.url }}/images/sponsors/TexasInstruments.png){:class="img-responsive"; display=inline; height="1.5cm"}
+![Thorlabs]({{ site.url }}/images/sponsors/Thorlabs.jpg){:class="img-responsive"; display=inline; height="1.5cm"}
 
 ## Mouser Electronics Inc, Texas Instruments Inc, Thorlabs
 
@@ -60,8 +60,8 @@ Thorlabs does not only provide the needed filters. They also ensure with their s
 
 ---
 
-![ZARGES]({{ site.url }}/images/sponsors/zarges.png){:class="img-responsive"}
-![Leica Geosystems]({{ site.url }}/images/sponsors/Hexagon-Leica.png){:class="img-responsive"}
+![ZARGES]({{ site.url }}/images/sponsors/zarges.png){:class="img-responsive"; display: inline; height="1.5cm"}
+![Leica Geosystems]({{ site.url }}/images/sponsors/Hexagon-Leica.png){:class="img-responsive"; display: inline; height="1.5cm"}
 
 ## ZARGES, Leica Geosystems
 
