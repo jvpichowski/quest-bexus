@@ -11,4 +11,5 @@ The practical aim is to build an autonomous system which could be used in interp
 
 Besides of the experiment an infrastructure hast to be built to analyse and command the experiment.
 
-![QUEST logo]({{ site.url }}/images/sponsors/uni-wue.png){:style="height: 5cm;"}
+![QUEST logo]({{ site.url }}/images/QuestLogo.png){:style="margin-left: auto;
+  margin-right: auto; height: 5cm"}
