@@ -1,4 +1,4 @@
-# QUEST on BEXUS
+# [QUEST on BEXUS](https://jvpichowski.github.io/quest-bexus)
 
 [**QUEST**](https://jvpichowski.github.io/quest-bexus/about) is an experiment by [students](https://jvpichowski.github.io/quest-bexus/team) from University of Würzburg. 
 It started with the question, how we could analyze what data should be transmitted to the ground station in missions with small bandwidth. This is a common problem especially when high-resolution images of planet surfaces need to be transferred.
@@ -10,7 +10,7 @@ During a nearly two years long development period, we could build a modular syst
 
 In the end, we stand in front of our own piece of technology ready to be launched in Esrange Space Center. As expected it was a very successful launch and we collected more than enough data to present the results on [conferences](https://jvpichowski.github.io/quest-bexus/2020/01/01/conferences/).
 
-We like to thank our [sponsors and partners](https://jvpichowski.github.io/quest-bexu/sponsors-partners) who made this experiment possible. 
+We like to thank our [sponsors and partners](https://jvpichowski.github.io/quest-bexus/sponsors-partners) who made this experiment possible. 
 
 After this exciting journey, most of us finished our studies and started new projects.
 Some of us joined the WüSpace e.V. in its foundation phase to form a new basis for exciting space-related projects in Würzburg.
