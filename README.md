@@ -28,6 +28,3 @@ The conference papers could be found here:
 [Dengel, R.; N., Florschütz; V., Huber; T., Muller; J., von Pichowski; A., Rabinowitsch; et al. (2019): QUEST ON BEXUS 27. 24th ESA Symposium on European Rocket & Balloon Programmes and Related Research. Essen, Germany. Conference contribution.](https://www.researchgate.net/publication/337784585_QUEST_ON_BEXUS_27)
 * Quad-spectral Unaided Experimental Scanner of Topography on BEXUS 27\
 [Dengel, R.; N., Florschütz; V., Huber; T., Muller; J., von Pichowski; A., Rabinowitsch; et al. (2020): Quad-spectral Unaided Experimental Scanner of Topography on BEXUS 27. University of Leicester. Conference contribution.](https://hdl.handle.net/2381/12609308.v1)
-
-For now, it is still under construction but it will replace the [previous website of the project](https://quest-bexus.de).
-
