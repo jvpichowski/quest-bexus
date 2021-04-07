@@ -1,5 +1,7 @@
 # [QUEST on BEXUS](https://jvpichowski.github.io/quest-bexus)
 
+![The QUEST Experiment](/website/images/Launch2.jpg)
+
 [**QUEST**](https://jvpichowski.github.io/quest-bexus/about) is an experiment by [students](https://jvpichowski.github.io/quest-bexus/team) from University of Würzburg. 
 It started with the question, how we could analyze what data should be transmitted to the ground station in missions with small bandwidth. This is a common problem especially when high-resolution images of planet surfaces need to be transferred.
 
