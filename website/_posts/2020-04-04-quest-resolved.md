@@ -5,7 +5,7 @@ title: QUEST completed.
 
 ![The QUEST experiment]({{ site.url }}/images/Launch2.jpg){:class="img-responsive"}
 
-[**QUEST**]({{ site.url }}/about) is a student experiment from University of Würzburg. 
+[**QUEST**]({{ site.url }}/about) is an experiment by [students]({{ site.url }}/team) from University of Würzburg. 
 It started with the question, how we could analyze what data should be transmitted to the ground station in missions with small bandwidth. This is a common problem especially when high-resolution images of planet surfaces need to be transferred.
 
 We have constructed an autonomous system, which classifies ground images and marks important areas for transmission. 
