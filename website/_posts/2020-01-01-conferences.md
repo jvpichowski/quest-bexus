@@ -7,7 +7,7 @@ Our lead system engineer [Ric Dengel](https://www.linkedin.com/in/ric-dengel/) w
 
 ## 24th ESA Symposium on European Rocket & Balloon Programmes and Related Research
 
-### October 2019
+### June 2019
 
 ![Ric Dengel at PAC]({{ site.url }}/images/PAC.jpg){:class="img-responsive"}
 
@@ -16,7 +16,7 @@ Our lead system engineer [Ric Dengel](https://www.linkedin.com/in/ric-dengel/) w
 
 ## 3rd Symposium on Space Educational Activities
 
-### January 2020
+### September 2019
 
 ![Ric Dengel at SSEA]({{ site.url }}/images/SSEA.jpg){:class="img-responsive"}
 
